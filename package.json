@@ -1,0 +1,29 @@
+{
+  "name": "form-value-injector",
+  "version": "0.0.0",
+  "description": "injects values into html form text without parsing the html document",
+  "main": "form-value-injector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/form-value-injector.git"
+  },
+  "keywords": [
+    "html",
+    "form",
+    "tags",
+    "input",
+    "select",
+    "textarea",
+    "set",
+    "inject"
+  ],
+  "author": "Dan Kolz (Emergent Ideas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/form-value-injector/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/form-value-injector#readme"
+}
