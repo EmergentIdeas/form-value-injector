@@ -12,3 +12,5 @@ let injectValues = function(text, values) {
 	
 	return result
 }
+
+module.exports = injectValues
