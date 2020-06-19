@@ -1,6 +1,6 @@
 {
   "name": "form-value-injector",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "injects values into html form text without parsing the html document",
   "main": "form-value-injector.js",
   "scripts": {
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/EmergentIdeas/form-value-injector#readme",
   "dependencies": {
     "input-value-injector": "^1.0.5",
-    "select-value-injector": "^1.0.0",
+    "select-value-injector": "^1.0.1",
     "textarea-value-injector": "^1.0.1"
   }
 }
